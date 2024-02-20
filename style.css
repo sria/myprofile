@@ -1,0 +1,100 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+     font-family: 'Inter', sans-serif;
+    border: 0px solid red;
+    height: 100vh;
+    margin: 0px auto;
+    background-color: #23252C;
+  text-align: center;
+}
+
+.container{
+    text-align: center;
+    align-content: center;
+    height: 100%;
+    border: 0px solid purple;
+    background-color: #1A1B21;
+    color: white;
+      width: 50%;
+      margin: 0px auto;
+}
+
+.buttons-sec{
+    border: 0px solid orange;
+    width: 100%;
+    text-align: center;
+}
+.buttons-sec button{
+    margin: 3px 10px;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+    font-size: 0.8em;
+}
+header > img {
+    width: 50%;
+    height: 60%;
+}
+
+.name-buttons{
+      text-align: center;
+    padding: 0px;
+    border: 0px solid green;
+    
+}
+
+
+div {
+    font-family: inherit;
+    border: 0px solid orange;
+     text-align: left;
+}
+
+div p{
+    font-size:0.9em;
+     margin: 0px 10px;
+     margin-bottom: 10px;
+     padding: 0px;
+     border: 0px solid green;
+}
+
+
+
+h5 {
+    text-align: left;
+    margin-top: 10px;
+    margin-bottom: 3px;
+    margin-left: 10px;
+    padding: 0px;
+     border: 0px solid red;
+}
+
+.full-name{
+    font-size: 1.2em;
+}
+.role-name{
+    font-size: 0.9em;
+    color: lightsalmon
+}
+.web-site{
+    font-size: 0.7em;
+    
+}
+
+.btn-linkedin{
+    background-color: #5093E2;
+}
+
+footer{
+    background-color: #161619;
+    margin: 20px 0px;
+    width: 100%;
+    padding: 10px 10px;
+}
+
+footer > img{
+    padding: 10px;
+}
